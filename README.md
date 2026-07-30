@@ -1,5 +1,7 @@
 🎤 **Presentation for Esfahan LUG**  
+
 📅 **Monday, 14 July 2025 -  Monday, 30 July 2026**
+
 📍 **Esfahan Linux Users Group (Isfahan LUG)**
 
 This repository contains the slides and related material for my talks  
