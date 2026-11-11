@@ -1,12 +1,20 @@
-🎤 **Presentation for Esfahan LUG**  
-📅 **Monday, 14 July 2025 -  Monday, 30 July 2026**  
-📍 **Isfahan Linux Users Group (Isfahan LUG)**
+# About
+
+A collection of presentations, talks, and technical materials I've created and shared at various events, conferences, and meetups.
+
+The topics mainly revolve around cybersecurity, information security, Linux, software security, and technology.
 
 
-This repository contains all slides and related material for my talks  
+## Usage & License
 
+**Feel free to use, share, modify, and redistribute these materials.**
 
----
+You are welcome to:
+- Use these presentations for personal or educational purposes.
+- Share them with others.
+- Modify and adapt them for your own talks or learning materials.
+- Use them as a starting point for your own work.
 
-Feel free to use or adapt the slides with attribution.  
-For feedback or contributions, open an issue or pull request.  
+If you find them useful, giving credit or linking back to this repository is appreciated, but not required.
+
+Happy learning and sharing! 🤘
