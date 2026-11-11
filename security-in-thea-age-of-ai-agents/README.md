@@ -1,4 +1,4 @@
-🎤 **Presentation for Esfahan LUG**  
+🎤 **Presentation for Isfahan LUG**  
 📅 **Monday, 30 July 2026**  
 📍 **Isfahan Linux Users Group (Isfahan LUG)**
 
